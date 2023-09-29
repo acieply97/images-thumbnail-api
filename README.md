@@ -78,3 +78,6 @@ The project includes test cases to ensure functionality and reliability. To run 
 The time taken to complete this project was approximately 4-5 days
 
 This README provides an overview of the Image Hosting Service project, its setup, usage, and important considerations. If you encounter any issues or have questions, please contact acieply97@gmail.com.
+
+# Comments
+Time did not allow me to create more tests, an error crept in and the gitignore files were uploaded.
